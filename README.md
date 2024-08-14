@@ -23,7 +23,7 @@ Basic usage examples or how to run the project.
 
 ## Contributing: 
 
-Guidelines for contributing to the project.
+Guidelines for contributing to the project. Test
 
 ## Links: 
 
